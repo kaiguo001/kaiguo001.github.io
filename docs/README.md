@@ -1,16 +1,16 @@
 ---
 home: true
 heroImage: /dog.svg
-heroText: 徐凯的前端记录
+heroText: ndst-ui
 tagline: 一点一滴都是进步
 actionText: 马上进入 →
-actionLink: /pages/folder1/test1.md
+actionLink: /pages/introduce.md
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+- title: 组件框架
+  details: Vue.js框架。
+- title: 组件适配版本
+  details: 适配于Vue2项目。
+- title: 组件开发宗旨
+  details: 减少重复组件开发，将更多的精力放到业务逻辑开发上。
 ---
 
